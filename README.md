@@ -16,14 +16,14 @@ I'm a passionate Artificial Intelligence and Data Science student at Karunya Ins
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
 
-### ML/DL Frameworks & Tools
+### ML/DL 
 **Core Frameworks & Libraries:**
-<img height="50" src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" alt="TensorFlow" /> <img height="50" src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" /><img height="50" src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" /><img height="50" src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" />
-**NLP:**
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/><img height="50" src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras"/><img height="50" src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn"/>
+###**NLP:**
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=python&logoColor=white) ![HuggingFace Transformers](https://img.shields.io/badge/🤗%20Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge&logo=meta&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=rag&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-**Computer Vision:**
+###**Computer Vision:**
 <img height="50" src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" /> ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 ### Databases & IoT
