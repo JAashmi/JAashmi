@@ -2,7 +2,7 @@
 
 **AI & Data Science Student | Machine Learning Enthusiast |**
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI and Coding GIF" />
+<img align="right" width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Woman with AI Hologram" />
 
 I'm a passionate Artificial Intelligence and Data Science student at Karunya Institute of Science and Technology with a strong interest in Machine Learning, Deep Learning, and building real-world AI solutions. I enjoy working on projects that combine cutting-edge technology with practical applications.
 
@@ -18,7 +18,7 @@ I'm a passionate Artificial Intelligence and Data Science student at Karunya Ins
 ### Programming Languages
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
 
-## ML/DL 
+## 💻 ML/DL 
 ### Core Frameworks & Libraries:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"/>
 ### NLP:
