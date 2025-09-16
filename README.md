@@ -5,24 +5,22 @@
 
 - 🔭 Here's my [portfolio](https://your-portfolio.example.com)  
 - 🌱 I’m currently learning & teaching **DSA** and integrating **AI** into my workflow  
-- 💼 Currently: *Software Engineer / Intern / Student* at **<Your Company>**  
-- 🛠 Previously worked with **<Company / Project names>**
-- ⚡ Fun fact: I know **Japanese**.  
-- 📫 Reach me: [your.email@example.com] or connect on LinkedIn
-
+- 💼 Currently: *Student* at **<Karunya Istitute of Science and Technology>**  
+- 🛠 Done intership  **<4iapps/Intel/Aglin infomatics/codsoft >**
+- ⚡ Fun fact: I know **Art**.  
+- 📫 Reach me: [justinaashmi75@gmail.com] or connect on LinkedIn
+ I code in
 ---
 
 ### 🔗 Socials
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourhandle)
-[![YouTube](https://img.shields.io/youtube/channel/views/UCXXXXXXXXX)](#)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/aashmi-j-0b9a59298)
 
 ---
 
-### 🧰 I code in
-<img height="40" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />  
-<img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="40" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="40" src="https://img.icons8.com/color/48/null/graphql.png"/>
+### 🧰
+<img height="40" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>   <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 ---
 
@@ -61,14 +59,6 @@
 
 ---
 
-> **How to customize quickly**
-> 1. Replace `your-portfolio.example.com`, `your.email@example.com`, and all `your-...` placeholders with your real links.  
-> 2. Replace the GIF URL on top if you want a different image.  
-> 3. If you want dynamic GitHub/LeetCode badges to work, change `your-github-username` and `your-leetcode-username` in the stats URLs.  
-> 4. Add project repo links to the Projects section.
 
----
 
-If you want, I can:
-- Fill this with your exact links (portfolio, LinkedIn, GitHub username, projects) if you paste them here, and I’ll return the final `README.md` ready to paste.
-- Or generate a version with lighter visuals (faster load, no external images).
+
