@@ -22,23 +22,13 @@ I'm a passionate Artificial Intelligence and Data Science student at Karunya Ins
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
 ### ML/DL Frameworks&Tools
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" /> 
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 
-
 ### Databases & IoT
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
 ---
 
 
@@ -58,8 +48,8 @@ I'm a passionate Artificial Intelligence and Data Science student at Karunya Ins
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashmi-j-0b9a59298/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinaashmi75@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+
 
 ---
 
-⭐ *From [Aashmi J](https://github.com/yourusername)*
+
