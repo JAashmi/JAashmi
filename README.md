@@ -12,27 +12,18 @@ I'm a passionate Artificial Intelligence and Data Science student at Karunya Ins
 - 🎯 **Portfolio:** [Coming Soon!]()
 - ⚡ **Fun fact:** I love making arts
 - 🏆 **Achievements:** Smart India Hackathon 2024- winner,Best Idea Award- Cyberthon 2025,4th Place- Innovate-X 2025
-
 ---
-
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
 ### ML/DL Frameworks&Tools
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000" />src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /> ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=python&logoColor=white)![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)![LLaMA](https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 
 ### Databases & IoT
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
 ---
-
-
-
 
 ## 📊 GitHub Stats
 
@@ -40,8 +31,7 @@ I'm a passionate Artificial Intelligence and Data Science student at Karunya Ins
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAashmi&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAashmi&theme=radical)
-
+[![Aashmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAashmi&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 📫 Let's Connect!
