@@ -11,86 +11,46 @@ I'm a passionate Artificial Intelligence and Data Science student at Karunya Ins
 - 📫 **Reach me:** [justinaashmi75@gmail.com](mailto:justinaashmi75@gmail.com)
 - 🎯 **Portfolio:** [Coming Soon!]()
 - ⚡ **Fun fact:** I love making arts
+- 🏆 **Achievements:** Smart India Hackathon 2024- winner,Best Idea Award- Cyberthon 2025,4th Place- Innovate-X 2025
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 **Winner** - Smart India Hackathon 2024
-- 🥇 **Best Idea Award** - Cyberthon 2025
-- 🏆 **4th Place** - Innovate-X 2025
-- 🎯 **Participant** - Mindkraft 2025 & Nexsus 2024
-
----
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
-### ML/DL Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### Data Science & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### NLP & AI Tools
+### ML/DL Frameworks&Tools
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" /> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 
+
 ### Databases & IoT
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-333333?style=for-the-badge&logo=arduino&logoColor=white)
-
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> 
 ---
 
-## 💼 Experience
 
-**Machine Learning Intern** @ Intel  
-*Developed AI bot to enhance customer experience using NLP techniques*
 
-**Chatbot Development Intern** @ Vaishnav Technologies  
-*Built RAG-based chatbot for intelligent, context-aware conversations*
-
-**Python Programming Intern** @ CodSoft  
-*Gained hands-on experience in Python programming and software development*
-
-**Machine Learning Intern** @ 4iapps  
-*Implemented various ML algorithms and developed end-to-end ML pipelines*
-
----
-
-## 🌟 Featured Projects
-
-### [Blind Navigation for Visually Impaired](https://github.com/yourusername/blind-navigation)
-ML-powered smart glasses that detect objects, estimate distances, and provide real-time audio feedback.
-
-### [Depression Chatbot using LLaMA](https://github.com/yourusername/mental-health-chatbot)
-Fine-tuned LLaMA model with CBT therapy to create an AI chatbot for mental health support.
-
-### [AI Assistant for Cyber Laws](https://github.com/yourusername/cyber-law-assistant)
-AI-driven legal assistant for cyber law awareness and case analysis.
-
-### [Smart Home & Farm using IoT](https://github.com/yourusername/iot-smart-farm)
-IoT-based automation system for doors, lights, and farm irrigation.
-
----
 
 ## 📊 GitHub Stats
 
-![Aashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Aashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAashmi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAashmi&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAashmi&theme=radical)
 
 ---
 
