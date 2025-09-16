@@ -2,7 +2,7 @@
 
 **AI & Data Science Student | Machine Learning Enthusiast |**
 
-<img align="right" width="350" src="https://media.giphy.com/media/fSvqyvK1MhswZfQ2j1/giphy.gif" alt="Professional Woman analyzing data" />
+<img align="right" width="350" src="https://pin.it/74RAcFeCd" />
 
 I'm a passionate Artificial Intelligence and Data Science student at Karunya Institute of Science and Technology with a strong interest in Machine Learning, Deep Learning, and building real-world AI solutions. I enjoy working on projects that combine cutting-edge technology with practical applications.
 
