@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Aashmi J
 
  ML Enthusiast  
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://iconscout.com/illustration/smart-girl-teenager-character-studying-online-sitting-front-of-laptop-computer-illustration_12971239)">
+<img align="right" width="370" height="290" src="[https://iconscout.com/illustration/smart-girl-teenager-character-studying-online-sitting-front-of-laptop-computer-illustration_12971239">
 
 - 🔭 Here's my [portfolio](https://your-portfolio.example.com)  
 - 🌱 I’m currently learning & teaching **DSA** and integrating **AI** into my workflow  
